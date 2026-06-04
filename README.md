@@ -34,3 +34,38 @@ My Python practice codes from scratch
 ## 💻 Practice File
 
 - `01_python_basics.py`
+
+---
+
+## 🐍 Day 2: Python Collections and Loops
+
+- Continued my Python learning journey by practicing collection data types and loop concepts.
+- Learned that lists are used to store multiple values and practiced common list methods.
+- Practiced tuples for storing immutable sequences and sets for unique elements.
+- Understood the specific difference between using `remove()` and `discard()` in sets.
+- Learned how to store, access, and update data in key-value pairs using dictionaries.
+- Practiced control flow loops using both `while` loop and `for` loop.
+- Learned to control loop execution using `break` and `continue` statements.
+- Created basic Python practice code and uploaded `02_python_collections_loops.py`.
+
+---
+
+## 📌 Topics Covered
+
+- Python Lists
+- List Methods
+- Python Tuples
+- Python Sets
+- Difference between `remove()` and `discard()`
+- Python Dictionaries
+- Dictionary Access and Update
+- While Loop
+- For Loop
+- Break Statement
+- Continue Statement
+
+---
+
+## 💻 Practice File
+
+- `02_python_collections_loops.py`
