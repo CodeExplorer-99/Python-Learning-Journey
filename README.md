@@ -69,3 +69,33 @@ My Python practice codes from scratch
 ## 💻 Practice File
 
 - `02_python_collections_loops.py`
+
+---
+
+## 🐍 Day 3: Python Functions and OOP Basics
+
+- Continued my Python learning journey by practicing functions and basic Object-Oriented Programming (OOP) concepts.
+- Learned how to reuse code using functions, parameters, and return values.
+- Practiced passing multiple values dynamically using `*args`.
+- Understood classes as blueprints and objects as real-world instances.
+- Learned the role of the `__init__` constructor and the `self` keyword.
+- Explored how Python handles multiple constructor-like behavior using default arguments.
+- Created basic Python practice code and uploaded `03_python_functions_oop_basics.py`.
+
+---
+
+## 📌 Topics Covered
+
+- Python Functions
+- Function Parameters & Arguments
+- `*args` (Arbitrary Arguments)
+- Python Objects & Classes
+- `__init__` Constructor
+- `self` Keyword
+- Multiple Constructor Concept
+
+---
+
+## 💻 Practice File
+
+- `03_python_functions_oop_basics.py`
