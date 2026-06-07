@@ -188,3 +188,92 @@ Completed Python learning practice from basics to advanced concepts:
 - Day 4: Advanced Python Concepts
 
 This journey helped me understand Python programming from foundation level to advanced concepts with hands-on practice.
+
+---
+
+## 🐍 Day 4: Advanced Python Concepts
+
+Today I continued my Python learning journey by practicing advanced Python and Object-Oriented Programming concepts.
+
+---
+
+## 📌 Topics Covered
+
+- Encapsulation
+- Private Variables and Private Methods
+- Inheritance
+- Multiple Inheritance
+- `super()` Method
+- Composition
+- Aggregation
+- Abstract Classes
+- Exception Handling
+- `try`, `except`, `else`, and `finally`
+- Python Iterators
+- Python Generators
+- Lambda Function
+- `map()` Function
+- `filter()` Function
+- `reduce()` Function
+- Closures
+- Decorators
+- Operator Overloading
+
+---
+
+## 🧠 What I Learned
+
+- Encapsulation is used to protect data inside a class.
+- Private variables and methods can be created using double underscore `__`.
+- Inheritance allows one class to reuse properties and methods of another class.
+- Multiple inheritance allows a class to inherit from more than one parent class.
+- The `super()` method is used to call parent class methods.
+- Composition represents a strong relationship between objects.
+- Aggregation represents a weak relationship where objects can exist independently.
+- Abstract classes are used to define a common structure for child classes.
+- Exception handling helps to manage runtime errors.
+- Iterators are used to access elements one by one.
+- Generators use `yield` to return values one at a time.
+- Lambda functions are small anonymous functions.
+- `map()`, `filter()`, and `reduce()` are useful for functional programming.
+- Closures allow inner functions to remember variables from outer functions.
+- Decorators are used to add extra functionality to existing functions.
+- Operator overloading allows custom behavior for operators.
+
+---
+
+## 💻 Practice File
+
+Created and uploaded:
+
+- `04_python_advanced_concepts.py`
+
+---
+
+## ✅ Practice Summary
+
+In today's practice file, I covered:
+
+- Creating private variables and private methods
+- Practicing inheritance and multiple inheritance
+- Using `super()` in child classes
+- Understanding composition and aggregation
+- Creating abstract classes using `ABC`
+- Handling exceptions using `try-except-else-finally`
+- Creating iterators and generators
+- Using lambda, map, filter, and reduce
+- Creating closures and decorators
+- Practicing operator overloading using special methods
+
+---
+
+## 🎯 4-Day Python Learning Summary
+
+Completed Python learning practice from basics to advanced concepts:
+
+- Day 1: Python Basics, Variables, Strings, Operators, If-Else
+- Day 2: Collections and Loops
+- Day 3: Functions and OOP Basics
+- Day 4: Advanced Python Concepts
+
+This journey helped me understand Python programming from foundation level to advanced concepts with hands-on practice.
