@@ -277,3 +277,10 @@ Completed Python learning practice from basics to advanced concepts:
 - Day 4: Advanced Python Concepts
 
 This journey helped me understand Python programming from foundation level to advanced concepts with hands-on practice.
+
+### 🎯 5-Day Python Learning Summary
+* **Day 1:** Python Basics (Variables, Data Types, and Operators)
+* **Day 2:** Control Flow (If-Else Conditions, Loops)
+* **Day 3:** Functions & Data Structures (Lists, Dictionaries, Tuples)
+* **Day 4:** Advanced Python Concepts (OOPs, Lambda, List Comprehensions)
+* **Day 5:** File Handling & Exception Handling (Reading/Writing files, Try-Except blocks) ⭐ *Today's Update*
