@@ -2,7 +2,7 @@
 
 My Python practice codes from scratch
 
----
+----
 
 ## 🐍 Day 1: Python Basics
 
