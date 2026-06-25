@@ -70,7 +70,7 @@ My Python practice codes from scratch
 
 - `02_python_collections_loops.py`
 
----
+------
 
 ## 🐍 Day 3: Python Functions and OOP Basics
 
