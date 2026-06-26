@@ -48,7 +48,7 @@ My Python practice codes from scratch
 - Learned to control loop execution using `break` and `continue` statements.
 - Created basic Python practice code and uploaded `02_python_collections_loops.py`.
 
----
+------
 
 ## 📌 Topics Covered
 
