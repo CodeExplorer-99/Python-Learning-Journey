@@ -82,7 +82,7 @@ My Python practice codes from scratch
 - Explored how Python handles multiple constructor-like behavior using default arguments.
 - Created basic Python practice code and uploaded `03_python_functions_oop_basics.py`.
 
----
+-------
 
 ## 📌 Topics Covered
 
